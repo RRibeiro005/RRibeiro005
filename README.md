@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RRibeiro005
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C, Lua and JavaScript
+- ⚡ Currently studying at ISEL (LEIRT)
